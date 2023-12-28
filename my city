@@ -1,0 +1,94 @@
+<htm>
+
+<head>
+
+
+<title>my home city</title>
+<style>
+.mypara {color:maroon}
+
+
+
+</style>
+
+</head>
+
+<body style="background-color:Teal">
+
+
+
+<marquee behavior="scroll"direction="left"> home town phull city.</marquee>
+
+
+<p class="mypara">phull city dis naushahro freoze sindh very beautfull vallge</p> 
+
+
+
+<h1 style="color:gold">list of citys </h1>
+
+
+<ul>
+
+<li>naushahro freoze</li>
+
+<li>padidan</li>
+<li>moro</li>
+<li>kandyro</li>
+<li> phull</li>
+
+<img src="E:\fdf89782-37bb-4207-a1a9-d7f495a176d5.jpg"</img>
+
+
+</ul>
+
+<h2> list food items</h2>
+
+<ol>
+
+<li>baryani</li>
+<li>chicken</li>
+<li>pulo</li>
+<li>daal mash</li>
+<li>achar</li>
+</ol>
+
+<img src="E:\4fea62a0-0278-4b97-84b5-5449ba686d95.jpg"</img>
+
+<video>
+
+<source src="https://youtu.be/__FbMUwqexw?si=o4JqV7W-t5WvBQTy-">
+
+
+</video>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__FbMUwqexw?si=o4JqV7W-t5WvBQTy" title="YouTube video player" frameborder="0" allow="accelerometer; 
+
+autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
